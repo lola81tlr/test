@@ -8,5 +8,5 @@ Some content
 
 ![chat](chat.jpg)
 
-<img width="300" height="148" alt="image" src="https://github.com/user-attachments/assets/e1d95510-78fb-4b3e-bb23-e0c2526a9886" />
+<img width="167" height="148" alt="image" src="https://github.com/user-attachments/assets/e1d95510-78fb-4b3e-bb23-e0c2526a9886" />
 <img width="223" height="148" alt="image" src="https://github.com/user-attachments/assets/504d8b3b-ed6d-4f1e-93df-8cb99a2588f7" />
